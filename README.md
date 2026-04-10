@@ -1,6 +1,9 @@
 # Diabetes Health Indicators Analysis 🩺📊
 An Excel dashboard analyzing diabetes risk factors using CDC BRFSS 2015 data
 
+## 📊 Dashboard Preview
+![Dashboard Preview](Dashboard_Preview.png)
+
 ## Project Overview
 This project analyses 253,680 survey responses from the CDC's Behavioral Risk Factor 
 Surveillance System (BRFSS) 2015, exploring the lifestyle, demographic, and health 
