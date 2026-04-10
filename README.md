@@ -2,7 +2,7 @@
 An Excel dashboard analyzing diabetes risk factors using CDC BRFSS 2015 data
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](Dashboard_Preview.png)
+![Dashboard Preview](Dashboard_Preview_png.)
 
 ## Project Overview
 This project analyses 253,680 survey responses from the CDC's Behavioral Risk Factor 
